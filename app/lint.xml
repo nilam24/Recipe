@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDuplicates">
+        <ignore path="src/main/res/mipmap-xhdpi/example_appwidget_preview.png" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/launcher_icon.png" />
+        <ignore path="src/main/res/drawable/launcher_icon.png" />
+    </issue>
+    <issue id="UnusedResources">
+        <ignore path="src/main/res/mipmap-anydpi-v26/example_appwidget_preview.png" />
+    </issue>
+</lint>

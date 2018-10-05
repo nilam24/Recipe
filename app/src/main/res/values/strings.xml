@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+   <!-- <string name="appwidget_text">RecipeApp</string> -->
+
+    <string name="textView1">Recipe</string>
+
+    <string name="textView2">Short_Description</string>
+    <string name="textView3">Description</string>
+    <string name="textView4">VideoUrl</string>
+    <string name="ImageView">ThumbNail</string>
+
+    <string name="textView5">Quant</string>
+    <string name="textView6">Measure</string>
+    <string name="textView7">Ingredient Value</string>
+
+    <string name="textView8">No Network, List empty</string>
+
+</resources>
